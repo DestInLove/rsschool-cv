@@ -1,1 +1,1 @@
-https://github.com/DestInLove/rsschool-cv/blob/gh-pages/cv.md
+https://DestInlove.github.io/rsschool-cv/
