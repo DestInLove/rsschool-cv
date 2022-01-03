@@ -1,1 +1,1 @@
-# rsschool-cv
+https://DestInlove.github.io/rsschool-cv/
